@@ -47,3 +47,4 @@ Pull request process
 
 1. Improved code quality
 2. Encouraging team feedback 
+3. Updated the feedback.png

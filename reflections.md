@@ -35,6 +35,8 @@ Steps Taken
                                             https://github.com/*username*/sba-1.git
 19. Uploading the file                  :   git push -u origin master
 20. Creating review/main                :   git checkout -b review/main
+21. Update and commit Reflection.md     :   git add .
+22. Pushing the changes to Git          :   git push origin review/main 
 
 How you handled the merge conflict?
 -----------------------------------
@@ -45,9 +47,4 @@ Pull request process
 
 1. Improved code quality
 2. Encouraging team feedback 
-
-
-
-
-
-
+3. Updated the feedback.png
